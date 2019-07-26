@@ -3,8 +3,7 @@
   <groupId>com.wnzy.xiaojiu</groupId>
   <artifactId>Xiaojiu</artifactId>
   <version>0.0.1-SNAPSHOT</version>
-
-      <name>ssm Maven Webapp</name>
+   <name>ssm Maven Webapp</name>
       <url>http://maven.apache.org</url>
       <!-- 属性 -->
       <properties>
@@ -183,5 +182,4 @@
        </plugin>
        </plugins>
       </build>
-  
 </project>
